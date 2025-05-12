@@ -1,0 +1,7 @@
+torch==2.4.0
+torchvision==0.19.0
+transformers==4.51.3
+modelscope
+gradio==5.29.0
+timm==1.0.15
+flash_attn==2.7.3
